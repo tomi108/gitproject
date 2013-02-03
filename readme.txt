@@ -5,3 +5,4 @@ koniec
 ffff
 
 dddd
+eeee
